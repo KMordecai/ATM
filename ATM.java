@@ -1,7 +1,6 @@
 /*
- * This class creates the JFrame interface.
- * Tere are four classes within this
- * program that create account objects.
+ * Creation of the GUI 
+ * and Main method.
  */
 package atm;
 
