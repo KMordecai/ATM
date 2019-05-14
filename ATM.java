@@ -1,4 +1,4 @@
-/*
+/* 
  * Creation of the GUI 
  * and Main method.
  */
